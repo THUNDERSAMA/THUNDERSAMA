@@ -7,6 +7,10 @@ Ask me about web development or tech-related stuff
 Pronouns: he/his
 Fun fact: I spend 2 hours each day solving program challenges
 
+<div id="header" align="center">
+  <img src="https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?w=1380&t=st=1667753391~exp=1667753991~hmac=8b7322e16a0530e7ee03b87f89df41b7b413517c8d04a861ffbcc93431bd1fb7" />
+</div>
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samadrit Das) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thunder SLASH) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Thunder SLASH) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SamadritD) 
 
@@ -19,6 +23,10 @@ Fun fact: I spend 2 hours each day solving program challenges
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thundersama&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+<div id="header" align="center">
+  <img src="https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?w=1800&t=st=1667753505~exp=1667754105~hmac=de01b960ceb3a4fe7e943de27b3c1ab82623bd4d811199a5b14b594aa9098f09" />
+</div>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
