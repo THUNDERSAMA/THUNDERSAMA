@@ -37,4 +37,4 @@ https://www.buymeacoffee.com/samadrit
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thundersama&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samadrit&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
