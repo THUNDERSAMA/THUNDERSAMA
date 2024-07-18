@@ -38,3 +38,4 @@ https://www.buymeacoffee.com/samadrit
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samadrit&label=Profile%20Views&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=THUNDERSAMA&label=Profile%20Views&color=1&icon=6&pretty=false)](https://visitcount.itsvg.in)
